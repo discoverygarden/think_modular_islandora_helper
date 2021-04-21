@@ -1,0 +1,9 @@
+{
+  "name": "islandora/islandora_helper",
+  "description": "Islandora 8 Workflow helper",
+  "type": "drupal-module",
+  "require": {
+    "discoverygarden/basic_ingest": "dev-8.x"
+  },
+  "license": "GPL-3.0-only"
+}

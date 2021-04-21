@@ -1,0 +1,9 @@
+name: 'Islandora 8 Helper'
+description: "Module provided by Think Modular to provide enhancements to Islandora 8 community install."
+package: Islandora Helpers
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
+dependencies:
+  - islandora
+  - basic_ingest
