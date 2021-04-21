@@ -3,7 +3,7 @@
   "description": "Islandora 8 Workflow helper",
   "type": "drupal-module",
   "require": {
-    "discoverygarden/basic_ingest": "dev-8.x"
+    "discoverygarden/basic_ingest": "8.x-dev"
   },
   "license": "GPL-3.0-only"
 }
